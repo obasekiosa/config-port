@@ -1,3 +1,4 @@
 **/.DS_store
-autoload/
+vim/autoload/
+nvim/plugin/
 **/*.swp
